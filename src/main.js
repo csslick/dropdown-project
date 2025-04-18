@@ -11,7 +11,7 @@ document.querySelector('#app').innerHTML = `
 Dropdown(
   // 첫 번째 인자: 드롭다운 메뉴를 삽입할 부모 HTML 요소를 지정
   document.querySelector('#app nav'), 
-  'Menu title 1',
+  'Dropdown Menu',
   // 두 번째 인자: 드롭다운 메뉴의 항목(item) 텍스트를 커스텀으로 설정하는 객체
   {
     menu1: 'HTML',
